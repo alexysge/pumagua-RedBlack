@@ -1,0 +1,1601 @@
+[
+    {
+	"pk": 1,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Anexo de Ingeniería",
+	    "ubicacion": "Edificio H ",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Bebedero, Anexo, de, Ingeniería, Edificio, H, ",
+		"descripcion": "",
+		"latitud": 19.327021699607123,
+		"longitud":  -99.18247081066197
+	}
+    },
+    {
+	"pk": 2,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Anexo de Ingeniería",
+	    "ubicacion": "Edificio J ",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Bebedero, Anexo, de, Ingeniería, Edificio, J, ",
+		"descripcion": "",
+		"latitud": 19.326326709337717,
+		"longitud": -99.18318673574247
+	}
+    },
+    {
+	"pk": 3,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Anexo de Ingeniería",
+	    "ubicacion": "Edificio S",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Bebedero, Anexo, de, Ingeniería, Edificio, S",
+	    "descripcion": "",
+		"latitud": 19.33173106903736,
+		"longitud": -99.1845651976172
+	}
+    },
+    {
+	"pk": 4,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Anexo de Ingeniería",
+	    "ubicacion": "Edificio T",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Bebedero, Anexo, de, Ingeniería, Edificio, T",
+		"descripcion": "",
+		"latitud": 19.327952958169064, 
+		"longitud":	-99.18156597782747
+	}
+    },
+    {
+	"pk": 5,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Campo 1 de fútbol",
+	    "ubicacion": "A",
+	    "institucion": "Campo 1 de fútbol",
+	    "palabras_clave": "Bebedero, Campo, 1, de, fútbol, A",
+		"descripcion": "",
+		"latitud": 19.323623591094996,
+		"longitud": -99.19243638331903
+	}
+    },
+    {
+	"pk": 6,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Campo 2 de fútbol",
+	    "ubicacion": "B",
+	    "institucion": "Campo 2 de fútbol",
+	    "palabras_clave": "Bebedero, Campo, 2, de, fútbol, B",
+		"descripcion": "",
+		"latitud": 19.323578348732216, 
+		"longitud": -99.19113471737047
+	}
+    },
+    {
+	"pk": 7,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Centro de Enseñanza para Extranjeros",
+	    "ubicacion": "Centro de Enseñanza para Extranjeros",
+	    "institucion": "Centro de Enseñanza para Extranjeros",
+	    "palabras_clave": "Bebedero, Centro, de, Enseñanza, para, Extranjeros",
+		"descripcion": "",
+		"latitud": 19.33592058969272, 
+		"longitud": -99.18659384815892
+	}
+    },
+    {
+	"pk": 8,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Centro de Enseñanza para Extranjeros",
+	    "ubicacion": "Cafetería",
+	    "institucion": "Centro de Enseñanza para Extranjeros",
+	    "palabras_clave": "Bebedero, Centro, de, Enseñanza, para, Extranjeros, Cafetería",
+		"descripcion": "",
+		"latitud": 19.33526252119955, 
+		"longitud": -99.18705520306526
+	}
+    },
+    {
+	"pk": 9,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Centro Universitario de Teatro",
+	    "ubicacion": "Centro Universitario de Teatro",
+	    "institucion": "Centro Universitario de Teatro",
+	    "palabras_clave": "Bebedero, Centro, Universitario, de, Teatro",
+		"descripcion": "",
+		"latitud": 19.31404723301993, 
+		"longitud": -99.18304274266413
+	}
+    },
+    {
+	"pk": 10,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Ciencia Forense",
+	    "ubicacion": "Ciencia Forense",
+	    "institucion": "Ciencia Forense",
+	    "palabras_clave": "Bebedero, Ciencia, Forense",
+		"descripcion": " ",
+		"latitud": 19.32705874344831, 
+		"longitud": -99.17390187184144
+	}
+    },
+    {
+	"pk": 11,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Departamento de Psiquiatría y Salud Mental",
+	    "ubicacion": "Departamento de Psiquiatría y Salud Mental",
+	    "institucion": "Departamento de Psiquiatría y Salud Mental",
+	    "palabras_clave": "Bebedero, Departamento, de, Psiquiatría, y, Salud, Mental",
+		"descripcion": "",
+		"latitud": 19.332561985168738, 
+		"longitud": -99.17778394526884
+	}
+    },
+    {
+	"pk": 12,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Lenguas",
+	    "ubicacion": "Lingüística y traducción (ENALLT), Edificio A",
+	    "institucion": "Escuela Nacional de Lenguas",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Lenguas, Lingüística, y, traducción, (ENALLT), Edificio, A",
+		"descripcion": "",
+		"latitud": 19.331721460955663, 
+		"longitud": -99.18297335596728
+	}
+    },
+    {
+	"pk": 13,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Lenguas",
+	    "ubicacion": "Lingüística y Traducción (ENALLT), Edificio B",
+	    "institucion": "Escuela Nacional de Lenguas",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Lenguas, Lingüística, y, Traducción, (ENALLT), Edificio, B",
+		"descripcion": "",
+		"latitud": 19.33141772656711, 
+		"longitud": -99.18478654048495
+	}
+    },
+    {
+	"pk": 14,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Trabajo Social",
+	    "ubicacion": "Edificio A",
+	    "institucion": "Escuela Nacional de Trabajo Social",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Trabajo, Social, Edificio, A",
+		"descripcion": "",
+		"latitud": 19.32382045930329, 
+		"longitud": -99.18683727055469
+	}
+    },
+    {
+	"pk": 15,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Trabajo Social",
+	    "ubicacion": "Edificio B ",
+	    "institucion": "Escuela Nacional de Trabajo Social",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Trabajo, Social, Edificio, B, ",
+		"descripcion": "",
+		"latitud": 19.324116437944117, 
+		"longitud": -99.18705501268671
+	}
+    },
+    {
+	"pk": 16,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Trabajo Social",
+	    "ubicacion": "Edificio D ",
+	    "institucion": "Escuela Nacional de Trabajo Social",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Trabajo, Social, Edificio, D, ",
+		"descripcion": "",
+		"latitud": 19.32387881839163,
+		"longitud": -99.18730915600747
+	}
+    },
+    {
+	"pk": 17,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Escuela Nacional de Trabajo Social",
+	    "ubicacion": "Gimnasio al aire libre",
+	    "institucion": "Escuela Nacional de Trabajo Social",
+	    "palabras_clave": "Bebedero, Escuela, Nacional, de, Trabajo, Social, Gimnasio, al, aire, libre",
+		"descripcion": "",
+		"latitud": 19.32351977927443,
+		"longitud":  -99.18651978301276
+	}
+    },
+    {
+	"pk": 18,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Edificio principal ",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Edificio, principal, ",
+		"descripcion": "",
+		"latitud": 19.330733454033577,
+		"longitud": -99.1874788287284
+	}
+    },
+    {
+	"pk": 19,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Carlos Lazo",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Carlos, Lazo",
+		"descripcion": "",
+		"latitud": 19.331277207569144,
+		"longitud":  -99.18651548885168
+	}
+    },
+    {
+	"pk": 20,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Carlos Leduc",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Carlos, Leduc",
+		"descripcion": "",
+		"latitud": 19.331034232328534,
+		"longitud":  -99.18643770571592
+	}
+    },
+    {
+	"pk": 21,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Domingo García Ramos-José Villagrán",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Domingo, García, Ramos-José, Villagrán",
+		"descripcion": "",
+		"latitud": 19.33146828924577,
+		"longitud": -99.18546680642784
+	}
+    },
+    {
+	"pk": 22,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Ehécatl 21-Juan O’Gorman",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Ehécatl, 21-Juan, O’Gorman",
+		"descripcion": "",
+		"latitud": 19.331501317114927,
+		"longitud": -99.18575078677874
+	}
+    },
+    {
+	"pk": 23,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller José Revueltas-Max Cetto",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, José, Revueltas-Max, Cetto",
+		"descripcion": "",
+		"latitud": 19.331078969621696,
+		"longitud": -99.18551011770202
+	}
+    },
+    {
+	"pk": 24,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Juan Antonio García Gayou-Ramón Marcos Noriega",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Juan, Antonio, García, Gayou-Ramón, Marcos, Noriega",
+		"descripcion": "",
+		"latitud": 19.331574679021745, 
+		"longitud": -99.18661415793858
+	}
+    },
+    {
+	"pk": 25,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Arquitectura",
+	    "ubicacion": "Taller Uno y Tres",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Bebedero, Facultad, de, Arquitectura, Taller, Uno, y, Tres",
+		"descripcion": "",
+		"latitud": 19.33171894369319,
+		"longitud": -99.1861447700604
+	}
+    },
+    {
+	"pk": 26,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias Políticas y Sociales",
+	    "ubicacion": "Cafetería",
+	    "institucion": "Facultad de Ciencias Políticas y Sociales",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Políticas, y, Sociales, Cafetería",
+		"descripcion": "",
+		"latitud": 19.31795469043768,
+		"longitud": -99.1776128296161
+	}
+    },
+    {
+	"pk": 27,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias Políticas y Sociales",
+	    "ubicacion": "Explanada alta",
+	    "institucion": "Facultad de Ciencias Políticas y Sociales",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Políticas, y, Sociales, Explanada, alta",
+		"descripcion": "",
+		"latitud": 19.31867127348041,
+		"longitud": -99.17738034970024
+	}
+    },
+    {
+	"pk": 28,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias",
+	    "ubicacion": "Edificio P ",
+	    "institucion": "Facultad de Ciencias",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Edificio, P, ",
+		"descripcion": "",
+		"latitud": 19.324727151312885,
+		"longitud": -99.18080762873338
+	}
+    },
+    {
+	"pk": 29,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias",
+	    "ubicacion": "Prometeo ",
+	    "institucion": "Facultad de Ciencias",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Prometeo, ",
+		"descripcion": "",
+		"latitud": 19.32489850075968,
+		"longitud": -99.1794698273275
+	}
+    },
+    {
+	"pk": 30,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias",
+	    "ubicacion": "Tlahuizcalpan, Edificio A",
+	    "institucion": "Facultad de Ciencias",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Tlahuizcalpan, Edificio, A",
+		"descripcion": "",
+		"latitud": 19.323897740550915,
+		"longitud": -99.17900706045745
+	}
+    },
+    {
+	"pk": 31,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias",
+	    "ubicacion": "Tlahuizcalpan, Edificio B",
+	    "institucion": "Facultad de Ciencias",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Tlahuizcalpan, Edificio, B",
+		"descripcion": "",
+		"latitud": 19.323940197214466, 
+		"longitud":-99.17869854857652
+	}
+    },
+    {
+	"pk": 32,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ciencias",
+	    "ubicacion": "Cafetería",
+	    "institucion": "Facultad de Ciencias",
+	    "palabras_clave": "Bebedero, Facultad, de, Ciencias, Cafetería",
+		"descripcion": "",
+		"latitud": 19.324371347918667,
+		"longitud": -99.17915784353087
+	}
+    },
+    {
+	"pk": 33,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Contaduría y Administración",
+	    "ubicacion": "Centro de Idiomas",
+	    "institucion": "Facultad de Contaduría y Administración",
+	    "palabras_clave": "Bebedero, Facultad, de, Contaduría, y, Administración, Centro, de, Idiomas",
+		"descripcion": "",
+		"latitud": 19.324265019550644,
+		"longitud": -99.18509835559904
+	}
+    },
+    {
+	"pk": 34,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Contaduría y Administración",
+	    "ubicacion": "Edificio A",
+	    "institucion": "Facultad de Contaduría y Administración",
+	    "palabras_clave": "Bebedero, Facultad, de, Contaduría, y, Administración, Edificio, A",
+		"descripcion": "",
+		"latitud": 19.32445887630429,
+		"longitud": -99.1848731532466
+	}
+    },
+    {
+	"pk": 35,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio C ",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, C, ",
+		"descripcion": "",
+		"latitud": 19.32434221833925, 
+		"longitud": -99.18439380169461
+	}
+    },
+    {
+	"pk": 36,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio E, planta baja",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, E, planta, baja",
+		"descripcion": "",
+		"latitud": 19.33408551084492,
+		"longitud": -99.18544207209334
+	}
+    },
+    {
+	"pk": 37,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Economía",
+	    "ubicacion": "Edificio B, 1° piso",
+	    "institucion": "Facultad de Economía",
+	    "palabras_clave": "Bebedero, Facultad, de, Economía, Edificio, B, 1°, piso",
+		"descripcion": "",
+		"latitud": 19.33425407181422,
+		"longitud": -99.18447631903747
+	}
+    },
+    {
+	"pk": 38,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Economía",
+	    "ubicacion": "Edificio principal",
+	    "institucion": "Facultad de Economía",
+	    "palabras_clave": "Bebedero, Facultad, de, Economía, Edificio, principal",
+		"descripcion": "",
+		"latitud": 19.335349406566703, 
+		"longitud":-99.18530931896171
+	}
+    },
+    {
+	"pk": 39,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Edificio Adolfo Sánchez Vázquez, 3° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Edificio, Adolfo, Sánchez, Vázquez, 3°, piso",
+		"descripcion": "",
+		"latitud": 19.334455995813766, 
+		"longitud":-99.1844819006939
+	}
+    },
+    {
+	"pk": 40,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "1° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, 1°, piso",
+		"descripcion": "",
+		"latitud": 19.33451853133818,
+		"longitud": -99.18687855796051
+	}
+    },
+    {
+	"pk": 41,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "1° piso, Aula-114",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, 1°, piso, Aula-114",
+		"descripcion": "",
+		"latitud": 19.334451211436072, 
+		"longitud":-99.18667344366585
+	}
+    },
+    {
+	"pk": 42,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "2° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, 2°, piso",
+		"descripcion": "",
+		"latitud": 19.3345810313588, 
+		"longitud":-99.18696539959731
+	}
+    },
+    {
+	"pk": 43,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "2° piso, Aula-208",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, 2°, piso, Aula-208",
+		"descripcion": "",
+		"latitud": 19.334229615062323, 
+		"longitud": -99.18680424035563
+	}
+    },
+    {
+	"pk": 44,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "3° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, 3°, piso",
+		"descripcion": "",
+		"latitud": 19.334148268218957, 
+		"longitud":-99.18719365908747
+	}
+    },
+    {
+	"pk": 45,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Biblioteca Samuel Ramos",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Biblioteca, Samuel, Ramos",
+		"descripcion": "",
+		"latitud": 19.334734518194683,
+		"longitud": -99.18639401316241
+	}
+    },
+    {
+	"pk": 46,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Edificio Adolfo Sánchez Vázquez, planta baja",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Edificio, Adolfo, Sánchez, Vázquez, planta, baja",
+		"descripcion": "",
+		"latitud": 19.334027654597577, 
+		"longitud":-99.18651291922136
+	}
+    },
+    {
+	"pk": 47,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Edificio Adolfo Sánchez Vázquez, descanso 1° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Edificio, Adolfo, Sánchez, Vázquez, descanso, 1°, piso",
+		"descripcion": "",
+		"latitud": 19.334294130665914,
+		"longitud": -99.18667047065968
+	}
+    },
+    {
+	"pk": 48,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Edificio Adolfo Sánchez Vázquez, descanso 2° piso",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Edificio, Adolfo, Sánchez, Vázquez, descanso, 2°, piso",
+		"descripcion": "",
+		"latitud": 19.333918257752163, 
+		"longitud": -99.18701827094937
+	}
+    },
+    {
+	"pk": 49,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Jardín Rosario Castellanos",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Jardín, Rosario, Castellanos",
+		"descripcion": "",
+		"latitud": 19.33413143886131,
+		"longitud": -99.18702421710964
+	}
+    },
+    {
+	"pk": 50,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Filosofía y Letras",
+	    "ubicacion": "Jardín Rosario Castellanos, Busto",
+	    "institucion": "Facultad de Filosofía y Letras",
+	    "palabras_clave": "Bebedero, Facultad, de, Filosofía, y, Letras, Jardín, Rosario, Castellanos, Busto",
+		"descripcion": "",
+		"latitud": 19.334310960199353, 
+		"longitud":-99.18690233854898
+	}
+    },
+    {
+	"pk": 51,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ingeniería",
+	    "ubicacion": "Biblioteca Antonio Dovalí Jaime ",
+	    "institucion": "Facultad de Ingeniería",
+	    "palabras_clave": "Bebedero, Facultad, de, Ingeniería, Biblioteca, Antonio, Dovalí, Jaime, ",
+		"descripcion": "",
+		"latitud": 19.332024204480827,
+		"longitud": -99.18363085711508
+	}
+    },
+    {
+	"pk": 52,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Ingeniería",
+	    "ubicacion": "Sala de Exámenes Profesionales",
+	    "institucion": "Facultad de Ingeniería",
+	    "palabras_clave": "Bebedero, Facultad, de, Ingeniería, Sala, de, Exámenes, Profesionales",
+		"descripcion": "",
+		"latitud": 19.332011811388277,
+		"longitud": -99.18455930427913
+	}
+    },
+    {
+	"pk": 53,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Medicina",
+	    "ubicacion": "Biblioteca Dr. Valentín Gómez Farías",
+	    "institucion": "Facultad de Medicina",
+	    "palabras_clave": "Bebedero, Facultad, de, Medicina, Biblioteca, Dr., Valentín, Gómez, Farías",
+		"descripcion": "",
+		"latitud": 19.33285223508932,
+		"longitud": -99.18027404946888
+	}
+    },
+    {
+	"pk": 54,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Medicina",
+	    "ubicacion": "Edificio B",
+	    "institucion": "Facultad de Medicina",
+	    "palabras_clave": "Bebedero, Facultad, de, Medicina, Edificio, B",
+		"descripcion": "",
+		"latitud": 19.332750475886634,
+		"longitud": -99.1800147528996
+	}
+    },
+    {
+	"pk": 55,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Medicina",
+	    "ubicacion": "Edificio D ",
+	    "institucion": "Facultad de Medicina",
+	    "palabras_clave": "Bebedero, Facultad, de, Medicina, Edificio, D, ",
+		"descripcion": "",
+		"latitud": 19.33266219815196, 
+		"longitud":-99.18027677430752
+	}
+    },
+    {
+	"pk": 56,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Biblioteca Dra. Graciela Rodriguez Ortega",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Biblioteca, Dra., Graciela, Rodriguez, Ortega",
+		"descripcion": "",
+		"latitud": 19.33581144485848, 
+		"longitud":-99.18831930895858
+	}
+    },
+    {
+	"pk": 57,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Cafetería",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Cafetería",
+		"descripcion": "",
+		"latitud": 19.3353501289161, 
+		"longitud":-99.1884297989545
+	}
+    },
+    {
+	"pk": 58,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Centro de Servicios Psicológicos",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Centro, de, Servicios, Psicológicos",
+		"descripcion": "",
+		"latitud": 19.335657233233366, 
+		"longitud":-99.18852501380674
+	}
+    },
+    {
+	"pk": 59,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Edificio A (Oficina sindical)",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Edificio, A, (Oficina, sindical)",
+		"descripcion": "",
+		"latitud": 19.33551348234825, 
+		"longitud":-99.18826014339962
+	}
+    },
+    {
+	"pk": 60,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Edificio C",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Edificio, C",
+		"descripcion": "",
+		"latitud": 19.335783015154032, 
+		"longitud":-99.18865485224161
+	}
+    },
+    {
+	"pk": 61,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Edificio E (Explanada)",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Edificio, E, (Explanada)",
+		"descripcion": "",
+		"latitud": 19.33551526944421,
+		"longitud": -99.18814004834442
+	}
+    },
+    {
+	"pk": 62,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Psicología",
+	    "ubicacion": "Zona deportiva",
+	    "institucion": "Facultad de Psicología",
+	    "palabras_clave": "Bebedero, Facultad, de, Psicología, Zona, deportiva",
+		"descripcion": "",
+		"latitud": 19.33580847848409,
+		"longitud": -99.18824630004397
+	}
+    },
+    {
+	"pk": 63,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Química",
+	    "ubicacion": "Canchas",
+	    "institucion": "Facultad de Química",
+	    "palabras_clave": "Bebedero, Facultad, de, Química, Canchas",
+		"descripcion": "",
+		"latitud": 19.332355628752957,
+		"longitud": -99.18183748509006
+	}
+    },
+    {
+	"pk": 64,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Química",
+	    "ubicacion": "Edificio B, Sótano",
+	    "institucion": "Facultad de Química",
+	    "palabras_clave": "Bebedero, Facultad, de, Química, Edificio, B, Sótano",
+		"descripcion": "",
+		"latitud": 19.332030715511124, 
+		"longitud":-99.1805000641359
+	}
+    },
+    {
+	"pk": 65,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Instituto de Ciencias Nucleares",
+	    "ubicacion": "Edificio C, 1° piso",
+	    "institucion": "Instituto de Ciencias Nucleares",
+	    "palabras_clave": "Bebedero, Instituto, de, Ciencias, Nucleares, Edificio, C, 1°, piso",
+		"descripcion": "",
+		"latitud": 19.325946597615214, 
+		"longitud":-99.17985325921971
+	}
+    },
+    {
+	"pk": 66,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Instituto de Ciencias Nucleares",
+	    "ubicacion": "Edificio C, 2° piso",
+	    "institucion": "Instituto de Ciencias Nucleares",
+	    "palabras_clave": "Bebedero, Instituto, de, Ciencias, Nucleares, Edificio, C, 2°, piso",
+		"descripcion": "",
+		"latitud": 19.32563274467674,
+		"longitud": -99.1806686507648
+	}
+    },
+    {
+	"pk": 67,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Instituto de Ciencias Nucleares",
+	    "ubicacion": "Edificio C, 3° piso",
+	    "institucion": "Instituto de Ciencias Nucleares",
+	    "palabras_clave": "Bebedero, Instituto, de, Ciencias, Nucleares, Edificio, C, 3°, piso",
+		"descripcion": "",
+		"latitud": 19.32575423620832, 
+		"longitud":-99.18055063356748
+	}
+    },
+    {
+	"pk": 68,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Instituto de Ciencias Nucleares",
+	    "ubicacion": "Edificio F, 2° piso",
+	    "institucion": "Instituto de Ciencias Nucleares",
+	    "palabras_clave": "Bebedero, Instituto, de, Ciencias, Nucleares, Edificio, F, 2°, piso",
+		"descripcion": "",
+		"latitud": 19.325702867460066, 
+		"longitud":-99.18053121840262
+	}
+    },
+    {
+	"pk": 69,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Instituto de Ecología",
+	    "ubicacion": "Instituto de Ecología",
+	    "institucion": "Instituto de Ecología",
+	    "palabras_clave": "Bebedero, Instituto, de, Ecología",
+		"descripcion": "",
+		"latitud": 19.321732128781942,
+		"longitud": -99.19211929703376
+	}
+    },
+    {
+	"pk": 70,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Pista de Calentamiento",
+	    "ubicacion": "Gimnasio de Halterofilia",
+	    "institucion": "Pista de Calentamiento",
+	    "palabras_clave": "Bebedero, Pista, de, Calentamiento, Gimnasio, de, Halterofilia",
+		"descripcion": "",
+		"latitud": 19.326811369620255,
+		"longitud": -99.1933086359421
+	}
+    },
+    {
+	"pk": 71,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Pista de Calentamiento",
+	    "ubicacion": "Pista",
+	    "institucion": "Pista de Calentamiento",
+	    "palabras_clave": "Bebedero, Pista, de, Calentamiento, Pista",
+		"descripcion": "",
+		"latitud": 19.326946227250637,
+		"longitud": -99.1934653991728
+	}
+    },
+    {
+	"pk": 72,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Sala Nezahualcóyotl",
+	    "ubicacion": "Sala Nezahualcóyotl",
+	    "institucion": "Sala Nezahualcóyotl",
+	    "palabras_clave": "Bebedero, Sala, Nezahualcóyotl",
+		"descripcion": "",
+		"latitud": 19.314476681858757,
+		"longitud": -99.18388196107283
+	}
+    },
+    {
+	"pk": 73,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Taller de Danza",
+	    "ubicacion": "Taller de Danza",
+	    "institucion": "Taller de Danza",
+	    "palabras_clave": "Bebedero, Taller, de, Danza",
+		"descripcion": "",
+		"latitud": 19.312925401378962,
+		"longitud": -99.18565973962508
+	}
+    },
+    {
+	"pk": 74,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Unidad de Cines",
+	    "ubicacion": "Unidad de Cines",
+	    "institucion": "Unidad de Cines",
+	    "palabras_clave": "Bebedero, Unidad, de, Cines",
+		"descripcion": "",
+		"latitud": 19.3138618073574,
+		"longitud": -99.18537453356772
+	}
+    },
+    {
+	"pk": 75,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Unidad de posgrado",
+	    "ubicacion": "Edificio H",
+	    "institucion": "Unidad de posgrado",
+	    "palabras_clave": "Bebedero, Unidad, de, posgrado, Edificio, H",
+		"descripcion": "",
+		"latitud": 19.309138276267685,
+		"longitud": -99.18540502084544
+	}
+    },
+    {
+	"pk": 76,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Unidad de Posgrado",
+	    "ubicacion": "Explanada",
+	    "institucion": "Unidad de Posgrado",
+	    "palabras_clave": "Bebedero, Unidad, de, Posgrado, Explanada",
+		"descripcion": "",
+		"latitud": 19.30947312291953,
+		"longitud": -99.18551198424977
+	}
+    },
+    {
+	"pk": 77,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Universum",
+	    "ubicacion": "Explanada",
+	    "institucion": "Universum",
+	    "palabras_clave": "Bebedero, Universum, Explanada",
+		"descripcion": "",
+		"latitud": 19.31157581945634,
+		"longitud": -99.18118860754987
+	}
+    },
+    {
+	"pk": 78,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Universum",
+	    "ubicacion": "Fuente",
+	    "institucion": "Universum",
+	    "palabras_clave": "Bebedero, Universum, Fuente",
+		"descripcion": "",
+		"latitud": 19.311662481990062,
+		"longitud": -99.18072405872665
+	}
+    },
+    {
+	"pk": 79,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio D, 1° piso, Aula D-101",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, D, 1°, piso, Aula, D-101",
+		"descripcion": "",
+		"latitud": 19.33414099075908,
+		"longitud": -99.18512554911335
+	}
+    },
+    {
+	"pk": 80,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio D, 1° piso, Aula D-112",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, D, 1°, piso, Aula, D-112",
+		"descripcion": "",
+		"latitud": 19.334050696275547,
+		"longitud": -99.18555296922499
+	}
+    },
+    {
+	"pk": 81,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio D, 2° piso, Aula D-202",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, D, 2°, piso, Aula, D-202",
+		"descripcion": "",
+		"latitud": 19.3340386570073,
+		"longitud": -99.18587831886222
+	}
+    },
+    {
+	"pk": 82,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio D, 2° piso, Aula D-211",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, D, 2°, piso, Aula, D-211",
+		"descripcion": "",
+		"latitud": 19.333954382104718, 
+		"longitud":-99.18612073623899
+	}
+    },
+    {
+	"pk": 83,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio D, 3° piso",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, D, 3°, piso",
+		"descripcion": "",
+		"latitud": 19.33396040174206,
+		"longitud": -99.18612711564363
+	}
+    },
+    {
+	"pk": 84,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Bebedero Facultad de Derecho",
+	    "ubicacion": "Edificio E, 1° piso",
+	    "institucion": "Facultad de Derecho",
+	    "palabras_clave": "Bebedero, Facultad, de, Derecho, Edificio, E, 1°, piso",
+		"descripcion": "",
+		"latitud": 19.334369736567947,
+		"longitud": -99.18633125659044
+	}
+    },
+    {
+	"pk": 85,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "CECESD Exterior",
+	    "ubicacion": "CECESD Exterior",
+	    "institucion": "CECESD Exterior",
+	    "palabras_clave": "CECESD, Exterior",
+		"descripcion": "",
+		"latitud": 19.330144885666904,
+		"longitud": -99.19163535308523
+	}
+    },
+    {
+	"pk": 86,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "DGDU Exterior",
+	    "ubicacion": "DGDU Exterior",
+	    "institucion": "DGDU Exterior",
+	    "palabras_clave": "DGDU, Exterior",
+		"descripcion": "",
+		"latitud": 19.333794129304533,
+		"longitud": -99.19589036292592
+	}
+    },
+    {
+	"pk": 87,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Anexo de Ingeniería",
+	    "ubicacion": "Camino Verde ",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Dispensador, Anexo, de, Ingeniería, Camino, Verde, ",
+		"descripcion": "",
+		"latitud": 19.328607588660578,
+		"longitud": -99.18198924174963
+	}
+    },
+    {
+	"pk": 88,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Anexo de Ingeniería",
+	    "ubicacion": "Edificio R",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Dispensador, Anexo, de, Ingeniería, Edificio, R",
+		"descripcion": "",
+		"latitud": 19.32925914812023, 
+		"longitud":-99.18161628225228
+	}
+    },
+    {
+	"pk": 89,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Anexo de Ingeniería",
+	    "ubicacion": "Edificio W",
+	    "institucion": "Anexo de Ingeniería",
+	    "palabras_clave": "Dispensador, Anexo, de, Ingeniería, Edificio, W",
+		"descripcion": "",
+		"latitud": 19.32605150771922,
+		"longitud": -99.18232352024576
+	}
+    },
+    {
+	"pk": 90,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador ex reposo de Atletas",
+	    "ubicacion": "Dispensador ex reposo de Atletas",
+	    "institucion": "ex reposo de Atletas",
+	    "palabras_clave": "Dispensador, ex, reposo, de, Atletas",
+		"descripcion": "",
+		"latitud": 19.326080784287026,
+		"longitud": -99.18346523291754
+	}
+    },
+    {
+	"pk": 91,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Arquitectura",
+	    "ubicacion": "Taller Hannes Meyer",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Dispensador, Facultad, de, Arquitectura, Taller, Hannes, Meyer",
+		"descripcion": "",
+		"latitud": 19.331413584809628,
+		"longitud": -99.18583122059749
+	}
+    },
+    {
+	"pk": 92,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Arquitectura",
+	    "ubicacion": "Taller Jorge González Reyna",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Dispensador, Facultad, de, Arquitectura, Taller, Jorge, González, Reyna",
+		"descripcion": "",
+		"latitud": 19.331110213292252,
+		"longitud": -99.18587250473126
+	}
+    },
+    {
+	"pk": 93,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Arquitectura",
+	    "ubicacion": "Taller Luis Barragán",
+	    "institucion": "Facultad de Arquitectura",
+	    "palabras_clave": "Dispensador, Facultad, de, Arquitectura, Taller, Luis, Barragán",
+		"descripcion": "",
+		"latitud": 19.333268728323844,
+		"longitud": -99.18660329429783
+	}
+    },
+    {
+	"pk": 94,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Ingeniería",
+	    "ubicacion": "Ed. B planta baja ",
+	    "institucion": "Facultad de Ingeniería",
+	    "palabras_clave": "Dispensador, Facultad, de, Ingeniería, Ed., B, planta, baja, ",
+		"descripcion": "",
+		"latitud": 19.331696580461976,
+		"longitud": -99.18465422154927
+	}
+    },
+    {
+	"pk": 95,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Ingenieria",
+	    "ubicacion": "Ed. B puente",
+	    "institucion": "Facultad de Ingenieria",
+	    "palabras_clave": "Dispensador, Facultad, de, Ingenieria, Ed., B, puente",
+		"descripcion": "",
+		"latitud": 19.331126944990203,
+		"longitud": -99.18466882648494
+	}
+    },
+    {
+	"pk": 96,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Ingeniería",
+	    "ubicacion": "Ed. C 2º piso  ",
+	    "institucion": "Facultad de Ingeniería",
+	    "palabras_clave": "Dispensador, Facultad, de, Ingeniería, Ed., C, 2º, piso, , ",
+		"descripcion": "",
+		"latitud": 19.33130151091042,
+		"longitud": -99.18522868235263
+	}
+    },
+    {
+	"pk": 97,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Dispensador Facultad de Ingeniería",
+	    "ubicacion": "Jardín Central  ",
+	    "institucion": "Facultad de Ingeniería",
+	    "palabras_clave": "Dispensador, Facultad, de, Ingeniería, Jardín, Central, , ",
+		"descripcion": "",
+		"latitud": 19.331090194246375,
+		"longitud": -99.18440106933082
+	}
+    },
+    {
+	"pk": 98,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Instituto de investigaciones Económocas",
+	    "ubicacion": "Instituto de investigaciones Económocas",
+	    "institucion": "Instituto de investigaciones Económocas",
+	    "palabras_clave": "Instituto, de, investigaciones, Económocas",
+		"descripcion": "",
+		"latitud": 19.334392166840352,
+		"longitud": -99.18296270933519
+	}
+    },
+    {
+	"pk": 99,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Jugo de nube",
+	    "ubicacion": "Jugo de nube",
+	    "institucion": "Jugo de nube",
+	    "palabras_clave": "Jugo, de, nube",
+		"descripcion": "",
+		"latitud": 19.32518315719943,
+		"longitud": -99.17816116726338
+	}
+    },
+    {
+	"pk": 100,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "Pista de Calentamiento",
+	    "ubicacion": "Pista de Calentamiento",
+	    "institucion": "Pista de Calentamiento",
+	    "palabras_clave": "Pista, de, Calentamiento",
+		"descripcion": "",
+		"latitud": 19.327027220963878,
+		"longitud": -99.19320790710591
+	}
+    },
+    {
+	"pk": 101,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R1, Dispensador Alberca Olímpica",
+	    "ubicacion": "Cancha de voleibol de playa ",
+	    "institucion": "Alberca Olímpica",
+	    "palabras_clave": "R1., Dispensador, Alberca, Olímpica., Cancha, de, voleibol, de, playa, ",
+		"descripcion": "",
+		"latitud": 19.329041619625148, 
+		"longitud":-99.18330526276743
+	}
+    },
+    {
+	"pk": 102,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R11, Dispensador Campos de fútbol Americano",
+	    "ubicacion": "Cubículo médico  ",
+	    "institucion": "Campos de fútbol Americano",
+	    "palabras_clave": "R11., Dispensador, Campos, de, fútbol, Americano., Cubículo, médico, , ",
+		"descripcion": "",
+		"latitud": 19.327732047204172,
+		"longitud": -99.18622022144585
+	}
+    },
+    {
+	"pk": 103,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R12, Dispensador Campos de Fútbol Americano",
+	    "ubicacion": "Entre comedor y baños ",
+	    "institucion": "Campos de Fútbol Americano",
+	    "palabras_clave": "R12., Dispensador, Campos, de, Fútbol, Americano., Entre, comedor, y, baños, ",
+		"descripcion": "",
+		"latitud": 19.328355261649047,
+		"longitud": -99.18762034857343
+	}
+    },
+    {
+	"pk": 104,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R13, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Tiro con arco  ",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R13., Dispensador, Estadio, de, Prácticas., Tiro, con, arco, , ",
+		"descripcion": "",
+		"latitud": 19.326978858661157,
+		"longitud": -99.186891176417
+	}
+    },
+    {
+	"pk": 105,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R15, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Vestidores",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R15., Dispensador, Estadio, de, Prácticas., Vestidores",
+		"descripcion": "",
+		"latitud": 19.326979342130354, 
+		"longitud":-99.18733452853074
+	}
+    },
+    {
+	"pk": 106,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R17, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Entre baños de mujeres y hombre",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R17., Dispensador, Estadio, de, Prácticas., Entre, baños, de, mujeres, y, hombre",
+		"descripcion": "",
+		"latitud": 19.325936544697157,
+		"longitud": -99.18626164491879
+	}
+    },
+    {
+	"pk": 107,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R18, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Acceso a ambulancias",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R18., Dispensador, Estadio, de, Prácticas., Acceso, a, ambulancias",
+		"descripcion": "",
+		"latitud": 19.32682747884059,
+		"longitud": -99.18621872957432
+	}
+    },
+    {
+	"pk": 108,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R19, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Al interior del acceso a ambulancias ",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R19., Dispensador, Estadio, de, Prácticas., Al, interior, del, acceso, a, ambulancias, ",
+		"descripcion": "",
+		"latitud": 19.32624027279191,
+		"longitud": -99.18739890154747
+	}
+    },
+    {
+	"pk": 109,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R2, Dispensador Alberca Olímpica",
+	    "ubicacion": "Rampa de acceso",
+	    "institucion": "Alberca Olímpica",
+	    "palabras_clave": "R2., Dispensador, Alberca, Olímpica., Rampa, de, acceso",
+		"descripcion": "",
+		"latitud": 19.330390898228192,
+		"longitud": -99.1854660320471
+	}
+    },
+    {
+	"pk": 110,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R20, Dispensador Estadio de Prácticas",
+	    "ubicacion": "Campo de usos múltiples",
+	    "institucion": "Estadio de Prácticas",
+	    "palabras_clave": "R20., Dispensador, Estadio, de, Prácticas., Campo, de, usos, múltiples",
+		"descripcion": "",
+		"latitud": 19.32986687868778, 
+		"longitud":-99.18466833012876
+	}
+    },
+    {
+	"pk": 111,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R21, Dispensador Frontón Abierto",
+	    "ubicacion": "Cancha de tennis",
+	    "institucion": "Frontón Abierto",
+	    "palabras_clave": "R21., Dispensador, Frontón, Abierto., Cancha, de, tennis",
+		"descripcion": "",
+		"latitud": 19.32755754822762,
+		"longitud": -99.18391581327585
+	}
+    },
+    {
+	"pk": 112,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R22, Dispensador Frontón Abierto",
+	    "ubicacion": "Cancha de basket ",
+	    "institucion": "Frontón Abierto",
+	    "palabras_clave": "R22., Dispensador, Frontón, Abierto., Cancha, de, basket, ",
+		"descripcion": "",
+		"latitud": 19.327535817550338,
+		"longitud": -99.18351051131269
+	}
+    },
+    {
+	"pk": 113,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R23, Dispensador Frontón Abierto",
+	    "ubicacion": "Cancha de Voleibol",
+	    "institucion": "Frontón Abierto",
+	    "palabras_clave": "R23., Dispensador, Frontón, Abierto., Cancha, de, Voleibol",
+		"descripcion": "",
+		"latitud": 19.328487618506063, 
+		"longitud":-99.18425663538125
+	}
+    },
+    {
+	"pk": 114,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R26, Dispensador Frontón Cerrado",
+	    "ubicacion": "Explanada ",
+	    "institucion": "Frontón Cerrado",
+	    "palabras_clave": "R26., Dispensador, Frontón, Cerrado., Explanada, ",
+		"descripcion": "",
+		"latitud": 19.32666658808842,
+		"longitud": -99.18441322932155
+	}
+    },
+    {
+	"pk": 115,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R3, Dispensador Alberca Olímpica",
+	    "ubicacion": "Comedor",
+	    "institucion": "Alberca Olímpica",
+	    "palabras_clave": "R3., Dispensador, Alberca, Olímpica., Comedor",
+		"descripcion": "",
+		"latitud": 19.33036247524815,
+		"longitud": -99.18463227836584
+	}
+    },
+    {
+	"pk": 116,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R40, Dispensador Campo de Béisbol",
+	    "ubicacion": "Gradas A",
+	    "institucion": "Campo de Béisbol",
+	    "palabras_clave": "R40., Dispensador, Campo, de, Béisbol., Gradas, A",
+		"descripcion": "",
+		"latitud": 19.325430006157745, 
+		"longitud":-99.1910321031598
+	}
+    },
+    {
+	"pk": 117,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R41, campo de Béisbol",
+	    "ubicacion": "Gradas B ",
+	    "institucion": "sbol",
+	    "palabras_clave": "R41., campo, de, Béisbol., Gradas, B, ",
+		"descripcion": "",
+		"latitud": 19.32593540423836, 
+		"longitud":-99.19073400222587
+	}
+    },
+    {
+	"pk": 118,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R42, Dispensador Campo de Béisbol",
+	    "ubicacion": "Principal  ",
+	    "institucion": "Campo de Béisbol",
+	    "palabras_clave": "R42., Dispensador, Campo, de, Béisbol., Principal, , ",
+		"descripcion": "",
+		"latitud": 19.32670960265894,
+		"longitud": -99.19038759823174
+	}
+    },
+    {
+	"pk": 119,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R5, Dispensador Coordinación de Fútbol Americano",
+	    "ubicacion": "Caseta de vigilancia ",
+	    "institucion": "Coordinación de Fútbol Americano",
+	    "palabras_clave": "R5., Dispensador, Coordinación, de, Fútbol, Americano., Caseta, de, vigilancia, ",
+		"descripcion": "",
+		"latitud": 19.32642129088777,
+		"longitud": -99.19181070778669
+	}
+    },
+    {
+	"pk": 120,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R6, Dispensador Coordinación de Fútbol Americano",
+	    "ubicacion": "Acceso al gimnasio  ",
+	    "institucion": "Coordinación de Fútbol Americano",
+	    "palabras_clave": "R6., Dispensador, Coordinación, de, Fútbol, Americano., Acceso, al, gimnasio, , ",
+		"descripcion": "",
+		"latitud": 19.324882397762277, 
+		"longitud":-99.192647557004
+	}
+    },
+    {
+	"pk": 121,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R7, Dispensador Coordinación de Fútbol Americano",
+	    "ubicacion": "Arrancadero ",
+	    "institucion": "Coordinación de Fútbol Americano",
+	    "palabras_clave": "R7., Dispensador, Coordinación, de, Fútbol, Americano., Arrancadero, ",
+		"descripcion": "",
+		"latitud": 19.32435593099698,
+		"longitud": -99.1919394538201
+	}
+    },
+    {
+	"pk": 122,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R8, Dispensador Campos de Fútbol Americano",
+	    "ubicacion": "Baños",
+	    "institucion": "Campos de Fútbol Americano",
+	    "palabras_clave": "R8., Dispensador, Campos, de, Fútbol, Americano., Baños",
+		"descripcion": "",
+		"latitud": 19.324963392498677,
+		"longitud": -99.19337711786012
+	}
+    },
+    {
+	"pk": 123,
+	"model": "pumaguaAPP.bebederos",
+	"fields": {
+	    "nombre": "R9, Dispensador Campos de Fútbol Americano",
+	    "ubicacion": "Bodega campo 4",
+	    "institucion": "Campos de Fútbol Americano",
+	    "palabras_clave": "R9., Dispensador, Campos, de, Fútbol, Americano., Bodega, campo, 4",
+		"descripcion": "",
+		"latitud": 19.324457174737432, 
+		"longitud":-99.19389210199385
+	}
+    }
+]
