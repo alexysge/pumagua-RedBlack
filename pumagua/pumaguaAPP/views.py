@@ -62,6 +62,14 @@ def index(request):
 
     mensaje = ''
 
+
+    estado_color_icon = {
+        '0': {'color': 'red', 'icon': 'glyphicon glyphicon-remove'},  # Bebedero: No disponible
+        '1': {'color': 'blue', 'icon': 'glyphicon glyphicon-tint'},     # Bebedero: Disponible
+        '2': {'color': 'orange', 'icon': 'glyphicon glyphicon-wrench'}     # Bebedero: En mantenimiento
+    }
+
+
     if 'q' in request.GET:
         q = request.GET['q']
         multiple_q = Q(Q(nombre__icontains=q) | Q(ubicacion__icontains=q) | Q(institucion__icontains=q) | Q(palabras_clave__icontains=q))
@@ -81,9 +89,16 @@ def index(request):
                           +'" width="150px">',
                 icon=folium.Icon(icon='glyphicon glyphicon-tint')).add_to(m)
     else:
+
         mensaje = 'Mostrando todos los bebederos disponibles en CU.'
         for coordenada in datosBebederos:
             datos = (coordenada.latitud, coordenada.longitud)
+            # Se le asigna un color e ícono de acuerdo al estado
+            estado = str(coordenada.estado) 
+            if estado in estado_color_icon:
+                color = estado_color_icon[estado]['color']
+                icono = estado_color_icon[estado]['icon']
+
             folium.Marker(datos,
                 tooltip=coordenada.nombre,
                 popup='<h5><b>'+coordenada.nombre+'</b></h5>\n'
@@ -91,7 +106,7 @@ def index(request):
                           +'<img src="'
                           +imagenes_bebederos(coordenada.id_bebedero)
                           +'" width="150px" style="border-radius: 8px">',
-                icon=folium.Icon(icon='glyphicon glyphicon-tint')).add_to(m)
+                icon=folium.Icon(icon=icono, color=color)).add_to(m)
 
     f = folium.Figure(height=500)
     f.add_child(m)
