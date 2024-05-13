@@ -1,0 +1,13 @@
+.formulario-report {
+    max-width: 400px;
+    margin: 3% auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    height: 50%;
+}
+
+body {
+    padding-top: 70px;
+}

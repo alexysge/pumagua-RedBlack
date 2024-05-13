@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+Reporte de bebedero
+{% endblock %}
+
+{% block extra-css %}
+<link href="{% static 'css/reportes.css' %}" rel="stylesheet" />
+{% endblock %}
+
+{% block body %}
+<form method="POST" class="formulario-report">
+    {% csrf_token %}
+    <h2 class="text-center">Generar un reporte </h2>
+    <br>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Nombre</label>
+        <input type="nombre" class="form-control" name="nombre">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Email</label>
+        <input type="email" class="form-control" name="email">
+    </div>
+    <div class="mb-3">
+        <label for="disabledSelect" class="form-label">Selecciona el bebedero</label>
+        <select id="disabledSelect" class="form-select" name="bebedero">
+            {% for bebedero in bebederos %}
+            <option value="{{ bebedero.0 }}">{{ bebedero.1 }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="datoExtra" class="form-label">Dato extra para identificar el bebedero</label>
+        <input type="text" class="form-control" name="datoExtra">
+    </div>
+    <div class="mb-3">
+        <label for="descripcion" class="form-label">Descripción del problema</label>
+        <textarea class="form-control" name="descripcion" rows="3"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar reporte</button>
+</form>
+{% for bebederos in bebederos %}
+{% endfor %}
+{% endblock %}
+        
