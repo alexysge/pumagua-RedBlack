@@ -1,6 +1,6 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 import folium
-from pumaguaAPP.models import bebederos
+from pumaguaAPP.models import bebederos, Reporte
 from django.db.models import Q
 from folium.plugins import LocateControl
 import json
@@ -80,6 +80,12 @@ def index(request):
             mensaje = 'Mostrando ' + str(data.count()) + ' bebederos.'
         for coordenada in data:
             datos = (coordenada.latitud, coordenada.longitud)
+            
+            estado = str(coordenada.estado) 
+            if estado in estado_color_icon:
+                color = estado_color_icon[estado]['color']
+                icono = estado_color_icon[estado]['icon']
+
             folium.Marker(datos,
                 tooltip=coordenada.nombre,
                 popup='<h5><b>'+coordenada.nombre+'</b></h5>\n'
@@ -87,7 +93,7 @@ def index(request):
                           +'<img src="'
                           +imagenes_bebederos(coordenada.id_bebedero)
                           +'" width="150px">',
-                icon=folium.Icon(icon='glyphicon glyphicon-tint')).add_to(m)
+                icon=folium.Icon(icon=icono, color=color)).add_to(m)
     else:
 
         mensaje = 'Mostrando todos los bebederos disponibles en CU.'
@@ -126,3 +132,24 @@ def imagenes_bebederos(id_bebedero):
 
 def informes(request):
     return render(request, "informes.html")
+
+def reportes(request):
+    
+    bebederos_list = bebederos.objects.values_list('id_bebedero', 'nombre')
+   
+    context = {
+        'bebederos': bebederos_list
+    }
+    if request.method == 'POST':
+       
+        print(request.POST)
+        nombre = request.POST.get('nombre')
+        email = request.POST.get('email')
+        id_bebedero = request.POST.get('bebedero')
+        bebedero = bebederos.objects.get(pk=id_bebedero)
+        dato_extra = request.POST.get('datoExtra')
+        descripcion = request.POST.get('descripcion')
+        reporte = Reporte(nombre=nombre, email=email, bebedero=bebedero, dato_extra=dato_extra, descripcion=descripcion)
+        reporte.save()
+        return redirect('/')
+    return render(request, 'reportes.html', context)

@@ -52,10 +52,18 @@
 	            <span class="glyphicon glyphicon-search"></span>Buscar
 	          </button>
           </form>
+         
+
       </div>
     </header>
 
     <br>
+    <div class="container px-4 text-center">
+      <form action="{% url 'pumaguaAPP:reportes' %}">
+        <button type="submit" class="btn button-18">Reportar un bebedero</button>
+      </form>
+    </div>
+
     <div class="feedback">
       {{ feedback_resultados }}
     </div>
@@ -86,5 +94,6 @@
         text: 'Aquí podrás: buscar bebederos en alguna facultad usando la barra de búsqueda y visualizar las rutas del pumabús con el botón del mapa.', 
         confirmButtonColor: "#0A66C2"})
     }
+
   </script>
 </html>
